@@ -1,0 +1,9 @@
+body { 
+    background-color: lightblue
+}
+h1 {color: pink}
+p {
+    line-height: 2.0em;
+    background: lightblue;
+    border-style:solid
+}
